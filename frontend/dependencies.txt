@@ -1,0 +1,3 @@
+npm i @uiw/react-codemirror
+npm install @uiw/codemirror-themes-all --save
+npm install @uiw/codemirror-extensions-langs --save
